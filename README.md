@@ -6,9 +6,13 @@ The objective of this homework is to use Python to interact with Bitcoin Testnet
 
 ### 2. Crypto Widrawn
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pic 1](https://github.com/mrasumof/AdvancedSolidity/blob/main/Images/Picture1.gif?raw=true)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pic 1](https://github.com/mrasumof/BlckchainPython/blob/main/Images/withdraw.png?raw=true)
 
 
-- The initial balance for these 3 wallets is 104 ETH. We will use the ending balance to demonstrate that a deposit had been made into the contract and moved to the accounts as the smart contract is programmed for.
+### 3. Crypto Received 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pic 2](https://github.com/mrasumof/AdvancedSolidity/blob/main/Images/Picture2.gif?raw=true)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pic 2](https://github.com/mrasumof/BlckchainPython/blob/main/Images/received.png?raw=true)
+
+### 4. Transaction Confirmed
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pic 2](https://github.com/mrasumof/BlckchainPython/blob/main/Images/trxcompleted.jpg?raw=true)
