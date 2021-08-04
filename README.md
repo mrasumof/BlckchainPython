@@ -4,10 +4,10 @@ The objective of this homework is to use Python to interact with Bitcoin Testnet
 
 ### 1.	Jupyter Notebook (Source Code: “wallet.ipynb”, "constants.py")
 
+[Addresses Derive Jupyter Notebook](https://www.google.com)
 ### 2. Crypto Widrawn
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pic 1](https://github.com/mrasumof/BlckchainPython/blob/main/Images/withdraw.png?raw=true)
-
 
 ### 3. Crypto Received 
 
@@ -15,4 +15,4 @@ The objective of this homework is to use Python to interact with Bitcoin Testnet
 
 ### 4. Transaction Confirmed
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pic 2](https://github.com/mrasumof/BlckchainPython/blob/main/Images/trxcompleted.jpg?raw=true)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pic 3](https://github.com/mrasumof/BlckchainPython/blob/main/Images/trxcompleted.jpg?raw=true)
